@@ -2,7 +2,7 @@ import { App, Editor, MarkdownView, Modal, Notice, Plugin, PluginSettingTab, Set
 
 // Remember to rename these classes and interfaces!
 // Test Code Change, expect following
-// 1. GitHub Action should create new commit
+// 1. GitHub Action will create new commit
 //    and increment version property in package.json file
 // 2. Create a Release and attached artifacts.
 
