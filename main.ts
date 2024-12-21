@@ -1,6 +1,10 @@
 import { App, Editor, MarkdownView, Modal, Notice, Plugin, PluginSettingTab, Setting } from 'obsidian';
 
 // Remember to rename these classes and interfaces!
+// Test Code Change, expect following
+// 1. GitHub Action should create new commit
+//    and increment version property in package.json file
+// 2. Create a Release and attached artifacts.
 
 interface MyPluginSettings {
 	mySetting: string;
